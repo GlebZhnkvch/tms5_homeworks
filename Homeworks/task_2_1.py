@@ -1,0 +1,7 @@
+a = str('Hello world!')
+a_1 = str(a[3])
+a_2 = str(a[11])
+a_3 = str(a[:5])
+a_4 = str(a[:10])
+a_5 = str(a[::2])
+print( '\n', a_1, '\n' , a_2 , '\n' ,  a_3, '\n', a_4, '\n', a_5)
